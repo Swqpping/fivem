@@ -11,7 +11,7 @@
 #include "CrossLibraryInterfaces.h"
 #include "ResumeComponent.h"
 
-#include "Hooking.Aux.h"
+#include "Hooking.Aux.h
 
 #include <ComponentLoader.h>
 
